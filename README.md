@@ -1,7 +1,6 @@
 
 <h1 align="center">Timer Pomodoro</h1>
-
-![Ignite Feed](https://user-images.githubusercontent.com/104810112/207644929-903cacbf-0e9e-43b9-9ed3-a4c787dd3599.png)
+![Ignite Timer](https://user-images.githubusercontent.com/104810112/207723233-d2f66c3c-cfb8-4742-adbd-dbfcc90cfd00.png)
 ---
 
 
