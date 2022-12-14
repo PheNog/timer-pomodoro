@@ -1,6 +1,8 @@
 
 <h1 align="center">Timer Pomodoro</h1>
+
 ![Ignite Timer](https://user-images.githubusercontent.com/104810112/207723233-d2f66c3c-cfb8-4742-adbd-dbfcc90cfd00.png)
+
 ---
 
 
