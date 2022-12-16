@@ -32,7 +32,10 @@ export function Countdown() {
     let interval: number
     if (activeCycle) {
       interval = setInterval(() => {
-        const differenceSeconds = differenceInSeconds(new Date(), activeCycle.startDate)
+        const differenceSeconds = differenceInSeconds(
+          new Date(), 
+          new Date(activeCycle.startDate)
+        )
 
         if (differenceSeconds >= totalSeconds) {
           markCurrentCycleAsResolved()
