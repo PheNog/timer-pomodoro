@@ -57,7 +57,7 @@ npm install
 # ou npm i
 ```
 
-##### Para executar o projeto, rode o seguinte comando  na pasta server e logo após na web:
+##### Para executar o projeto, rode o seguinte comando na pasta raíz:
 ```bash
 npm run dev
 ```
